@@ -1,0 +1,2 @@
+class NonValidFileException < StandardError
+end
